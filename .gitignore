@@ -1,0 +1,8 @@
+*.jks
+*.keystore
+*base64*.txt
+node_modules/
+web-build/
+android/
+build-source/
+artifacts/
