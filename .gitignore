@@ -1,0 +1,11 @@
+*.jks
+*.keystore
+*base64*.txt
+node_modules/
+web-build/
+android/
+build-source/
+artifacts/
+
+# Bundled test/debug key is part of the complete test project.
+!Signing/active-code-debug-signing.keystore
